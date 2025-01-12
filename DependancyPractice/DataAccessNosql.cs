@@ -10,6 +10,7 @@ namespace DependancyPractice
     {
         public void SignUp(string username, string password)
         {
+            //only method and no body
             Console.WriteLine("Username" + username + "password" + password + "Added into database using NoSql");
         }
     }

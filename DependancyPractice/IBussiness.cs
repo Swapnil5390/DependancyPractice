@@ -9,5 +9,6 @@ namespace DependancyPractice
     public interface IBussiness
     {
         public void SignUp(string Username, string Password);
+       
     }
 }
